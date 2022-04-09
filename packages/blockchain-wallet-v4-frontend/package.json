@@ -108,7 +108,7 @@
     "lodash.debounce": "4.0.8",
     "lottie-web": "5.7.11",
     "matchmedia-polyfill": "0.3.2",
-    "moment": "2.29.1",
+    "moment": "2.29.2",
     "postal-codes-js": "2.5.2",
     "prop-types": "15.7.2",
     "qrcode.react": "1.0.1",
